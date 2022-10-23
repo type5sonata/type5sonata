@@ -2,7 +2,7 @@
 
 * 💸 Writes code to make finance fairer at @FairerFinance
 * Web development, data science, automation
-* 💭 Publishes at [The Longer View](https://thelongerview.substack.com/)
+* 💭 Publishes on politics/philosophy at [The Longer View](https://thelongerview.substack.com/)
 * 🎻 [Composes music](https://audiomack.com/)
 
 # Tech stack
