@@ -2,7 +2,6 @@
 
 * 💸 Writes code to analyse policy and data at the RTPI.
 * Web development, data science, automation
-* 💭 Publishes on politics/philosophy at [The Longer View](https://thelongerview.substack.com/)
 * 🎻 [Composes music](https://audiomack.com/)
 
 # Tech stack
