@@ -1,6 +1,6 @@
 # Hello, I'm Gábor (@type5sonata)!
 
-* 💸 Writes code to analyse policy and data at the RTPI.
+* 💸 Writes code to analyse policy and data at the GLA.
 * Web development, data science, automation
 * 🎻 [Composes music](https://audiomack.com/)
 
