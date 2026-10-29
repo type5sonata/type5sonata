@@ -1,6 +1,6 @@
 # Hello, I'm Gábor (@type5sonata)!
 
-* 💸 Writes code to analyse data at Cast Consultancy.
+* Works at Cast Consultancy.
 * Web development, data science, automation
 * 🎻 [Composes music](https://audiomack.com/)
 
